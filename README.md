@@ -1,1 +1,1 @@
-# stockmarket-streaming-data-platform
+# Production-Grade Financial Market Data Platform
